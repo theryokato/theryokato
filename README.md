@@ -12,4 +12,4 @@ Outside of engineering, I’m enjoy photography and making digital art 🎨
 
 ---
 
-- 📫 Reach me on [email](ryokato.inbox@gmail.com) or [email](ryokato@tamu.edu)
+- 📫 Reach me on [email](ryokato.inbox@gmail.com)
