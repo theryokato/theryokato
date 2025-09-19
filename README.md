@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Ryo Kato</h3>
+<h3 align="center">👋 Howdy, I'm Ryo Kato</h3>
 
 <p align="center">
   <a href="theryokato.github.io">Website</a> •
