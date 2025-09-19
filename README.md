@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="theryokato.github.io">Website</a> •
-  <a href="https://www.linkedin.com/in/ryokato-texasam/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ryokato-texasam/">LinkedIn</a>
 </p>
 
 ---
