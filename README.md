@@ -12,4 +12,4 @@ Outside of engineering, I’m enjoy photography and making digital art 🎨
 
 ---
 
-- 📫 Reach me on [email]("mailto:ryokato.inbox@gmail.com)
+- 📫 Reach me on [email]("mailto:ryokato.inbox@gmail.com")
