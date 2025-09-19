@@ -1,16 +1,15 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I'm Ryo Kato</h3>
 
-<!--
-**theryokato/theryokato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="theryokato.github.io">Website</a> •
+  <a href="https://www.linkedin.com/in/ryokato-texasam/">LinkedIn</a> •
+</p>
 
-Here are some ideas to get you started:
+---
+I'm a mechanical engineer with a passion for robotics and space engineering. I hope as an engineer, I can help bring space closer to our everyday lives and enrich it as a whole.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of engineering, I’m enjoy photography and making digital art 🎨 
+
+---
+
+- 📫 Reach me on [email](ryokato.inbox@gmail.com) or [email](ryokato@tamu.edu)
