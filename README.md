@@ -7,7 +7,7 @@ Outside of engineering, I’m enjoy photography, digital art, and worldbuilding.
 
 ## Activites
 - Internal Vice President of [TURTLE Robotics](https://www.turtlerobotics.org/)
-- Mechanical Systems Lead of [DRON](https://www.turtlerobotics.org/projects/dron)
+- Mechanical Systems Lead of [DRON](https://github.com/turtle-robotics/DRON)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][email-shield]][email-url]
