@@ -1,6 +1,6 @@
 # Howdy, I'm Ryo Kato
 
-I'm a mechanical engineer with a passion for robotics and space engineering. I hope as an engineer, I can help bring space closer to our everyday lives and enrich it as a whole. I work on both mechanical design and control systems.
+I'm a mechanical engineering student with a passion for robotics and space engineering. I hope as an engineer, I can help bring space closer to our everyday lives and enrich it as a whole. I work on both mechanical design and embedded software systems.
 
 Outside of engineering, I’m enjoy photography, digital art, and worldbuilding.
 
