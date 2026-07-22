@@ -1,7 +1,7 @@
 # Ryo Kato
 
-この世界をより広くより美しくするために
-To make the world a broader and more beautiful place
+この世界をより広くより美しくするために。
+To make the world a broader and more beautiful place.
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][email-shield]][email-url]
