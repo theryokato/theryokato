@@ -1,13 +1,7 @@
-# Howdy, I'm Ryo Kato
+# Ryo Kato
 
-I'm a mechanical engineering student with a passion for robotics and space engineering. I hope as an engineer, I can help bring space closer to our everyday lives and enrich it as a whole. I work on both mechanical design and embedded software systems.
-
-Outside of engineering, I’m enjoy photography, digital art, and worldbuilding.
-
-
-## Activites
-- Internal Vice President of [TURTLE Robotics](https://www.turtlerobotics.org/)
-- Mechanical Systems Lead of [DRON](https://github.com/turtle-robotics/DRON)
+この世界をより広くより美しくするために
+To make the world a broader and more beautiful place
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][email-shield]][email-url]
