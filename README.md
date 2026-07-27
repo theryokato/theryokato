@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=85C1DC&vCenter=true&width=435&lines=Ryo+Kato;%E5%8A%A0%E8%97%A4+%E9%81%BC)](https://git.io/typing-svg)
 
-To spread this vast world, and let it flourish boundlessly.  
+So that this world may grow ever vaster, ever more beautiful.
 この世界をより広くより美しくするために。  
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -10,6 +10,6 @@ To spread this vast world, and let it flourish boundlessly.
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/theryokato
 [email-shield]: https://img.shields.io/badge/Email-grey?style=for-the-badge
-[email-url]: mailto:theryokato@proton.me
+[email-url]: mailto:contact@theryokato.com
 [portfolio-shield]: https://img.shields.io/badge/portfolio-purple?style=for-the-badge
-[portfolio-url]: https://theryokato.com/en/
+[portfolio-url]: https://theryokato.com
